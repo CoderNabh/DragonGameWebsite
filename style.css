@@ -8,7 +8,7 @@ body{
     overflow: hidden;
 }
 .gameContainer{
-    background: url(bg.png);
+    background: url(img/bg.png);
     background-repeat: no-repeat;
     background-size: 100vw 100vh;
     width: 100vw;
@@ -29,7 +29,7 @@ body{
     visibility: hidden;
 }
 .dino{
-    background: url(dino.png);
+    background: url(img/dino.png);
     background-repeat: no-repeat;
     background-size: cover;
     width: 230px;
@@ -48,7 +48,7 @@ body{
     font-weight: bold;
 }
 .obstacle{
-    background: url(dragon.png);
+    background: url(img/dragon.png);
     background-size: cover;
     width: 180px;
     height: 122px;
